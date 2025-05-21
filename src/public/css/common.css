@@ -1,0 +1,22 @@
+.header {
+    background: white;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+}
+
+.header__logo {
+    color: gold;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+main {
+    background-color: whitesmoke;
+    width: 100vw;
+    height: 100vh;
+}
